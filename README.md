@@ -10,13 +10,30 @@ Um projeto de jogo da velha interativo para dois jogadores, feito em C++, utiliz
 
 ![Imagem do Terminal](assets/Jogo-da-Velha.png)
 
-Interface do Jogo da Velha em execução no terminal
+Interface do Jogo da Velha em execução no terminal.
 
 ## Instalação e Pré-requisitos
 
 ### Pré-requisitos
 
-- Compilador C++ compatível com **C++11 ou superior** (ex.: `g++`, `clang++`)
-- Terminal ou prompt de comando para executar o programa
+- Compilador C++ compatível com C++11 ou superior;
+- Terminal ou prompt de comando para executar o programa;
+- Sistema Windows para limpar a tela automaticamente com system("cls");
+-  Para Linux/macOS, o comando system("cls") deve ser alterado para system("clear").
 
-### Passos
+### Passos para Instalar
+
+- Baixe ou clone o projeto;
+- Compile o código.
+
+## Estrutura do Projeto
+
+```
+Jogo-da-Velha-em-CPP/
+├── assets/
+│   └── Jogo-da-Velha.png
+├── src/
+│   └── Jogo-da-Velha.cpp
+├── LICENSE
+└── README.md
+```
