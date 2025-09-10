@@ -30,7 +30,7 @@ Interface do Jogo da Velha em execução no terminal.
 
 Após baixar ou clonar o projeto, siga os passos abaixo para compilar e executar o jogo no terminal.
 
-- Compilar o Código
+### Compilar o Código
 
 No Windows, abra o terminal e digite:
 
@@ -44,7 +44,7 @@ No Linux/macOS:
 g++ src/Jogo-da-Velha.cpp -o JogoDaVelha
 ```
 
-- Executando o Jogo:
+### Executando o Jogo:
 
 No Windows:
 
