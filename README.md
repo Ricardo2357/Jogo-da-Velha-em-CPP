@@ -76,3 +76,6 @@ Jogo-da-Velha-em-CPP/
 ├── LICENSE
 └── README.md
 ```
+## Licença 
+
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes. 
