@@ -60,9 +60,9 @@ No Linux/macOS:
 
 ## Como Jogar
 
-1. O Jogador 1 (X) escolhe uma posição de 1 a 9 no tabuleiro.
-2. O Jogador 2 (O) faz sua jogada em seguida.
-3. O tabuleiro é atualizado a cada jogada.
+1. O Jogador 1 (X) escolhe uma posição de 1 a 9 no tabuleiro;
+2. O Jogador 2 (O) faz sua jogada em seguida;
+3. O tabuleiro é atualizado a cada jogada;
 4. O jogo termina quando um jogador vence ou ocorre empate.
 
 ## Estrutura do Projeto
