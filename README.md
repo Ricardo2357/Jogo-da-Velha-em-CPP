@@ -3,7 +3,7 @@
 Um projeto de jogo da velha interativo para dois jogadores, feito em C++, utilizando o terminal em modo texto. Desenvolvido para entreter usuários, o objetivo é praticar o fluxo lógico e estruturas condicionais, manipulação e validação de entradas do usuário, e gerenciamento dinâmicos de estado do jogo.
 
 <p align = "left">
-<img src = "https://www.shutterstock.com/image-vector/cute-dark-gray-calculator-blue-600nw-2618023419.jpg" alt = Banner do Jogo da Velha>
+<img src = "https://imdtec.imd.ufrn.br/assets/imagens/programacao-estruturada/prog_estruturada_a13_f01_c.jpg" alt = Banner do Jogo da Velha>
 </p>
 
 ## Demonstração
