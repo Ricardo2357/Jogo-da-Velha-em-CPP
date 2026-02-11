@@ -35,13 +35,13 @@ Após baixar ou clonar o projeto, siga os passos abaixo para compilar e executar
 No Windows, abra o terminal e digite:
 
 ```
-g++ src/Jogo-da-Velha.cpp -o JogoDaVelha.exe
+g++ src/jogo-da-velha.cpp -o jogodavelha.exe
 ```
 
 No Linux/macOS:
 
 ```
-g++ src/Jogo-da-Velha.cpp -o JogoDaVelha
+g++ src/jogo-da-velha.cpp -o jogodavelha
 ```
 
 ### Executando o Jogo:
@@ -49,13 +49,13 @@ g++ src/Jogo-da-Velha.cpp -o JogoDaVelha
 No Windows:
 
 ```
-JogoDaVelha.exe
+jogodavelha.exe
 ```
 
 No Linux/macOS:
 
 ```
-./JogoDaVelha
+./jogodavelha
 ```
 
 ## Como Jogar
