@@ -8,7 +8,7 @@ Um projeto de jogo da velha interativo para dois jogadores, feito em C++, utiliz
 
 ## Demonstração
 
-![Imagem do Terminal](assets/Jogo-da-Velha-Terminal.png)
+![Imagem do Terminal](assets/Jogo-da-Velha-Terminal(1).png)
 
 Interface do Jogo da Velha em execução no terminal.
 
