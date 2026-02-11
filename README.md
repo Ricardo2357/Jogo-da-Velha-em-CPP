@@ -69,10 +69,10 @@ No Linux/macOS:
 
 ```
 Jogo-da-Velha-em-CPP/
-├── assets/
-│   └── Jogo-da-Velha.png
+├── images/
+│   └── terminal-jogo-da-velha.png
 ├── src/
-│   └── Jogo-da-Velha.cpp
+│   └── jogo-da-velha.cpp
 ├── LICENSE
 └── README.md
 ```
